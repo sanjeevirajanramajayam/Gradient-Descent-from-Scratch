@@ -3,6 +3,7 @@
 A **Python-based interactive visualization** of gradient descent on the 2D function \( y = x^2 \), designed to intuitively demonstrate how gradient-based optimization works.
 
 ---
+![2025-10-24 17-59-25](https://github.com/user-attachments/assets/1aaf4e32-b38f-4cf6-a98a-419f125b584a)
 
 ## 🖼 Project Overview
 
